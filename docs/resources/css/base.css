@@ -210,8 +210,6 @@ a:not([href]) {
 }
 
 h2, h3 {
-    background: rgb(167, 204, 162);
-    background: linear-gradient(90deg, rgba(167, 204, 162, 0.7973564425770308) 0%, rgba(167, 204, 162, 0) 100%);
     display: block;
     padding: 2px;
 }
