@@ -1,0 +1,19 @@
+.kInteractive {
+    cursor: zoom-in;
+}
+
+.kInteractive:-webkit-full-screen {
+    cursor: zoom-out;
+}
+
+.kInteractive:-moz-full-screen {
+    cursor: zoom-out;
+}
+
+.kInteractive:-ms-fullscreen {
+    cursor: zoom-out;
+}
+
+.kInteractive:fullscreen {
+    cursor: zoom-out;
+}
