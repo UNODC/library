@@ -310,6 +310,15 @@ body {
     widows: 150px;
 }
 
+.rightFloat200 {
+    margin: 5px;
+    clear: none;
+    float: right;
+    position: static;
+    transition: none;
+    widows: 200px;
+}
+
 .leftFloat {
     margin: 5px;
     clear: none;
@@ -317,4 +326,26 @@ body {
     position: static;
     transition: none;
     width: 100px
+}
+
+.leftFloat200 {
+    margin: 5px;
+    clear: none;
+    float: left;
+    position: static;
+    transition: none;
+    width: 200px
+}
+
+.logo {
+    position: absolute;
+    max-width: 200px;
+    bottom: 0px;
+    margin-bottom: 83px;
+    right: 0px;
+    margin-right: 20px;
+}
+
+body .title {
+    height: calc(100vh - 80px);
 }
