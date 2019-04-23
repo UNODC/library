@@ -307,7 +307,7 @@ body {
     float: right;
     position: static;
     transition: none;
-    widows: 150px;
+    width: 150px;
 }
 
 .rightFloat200 {
@@ -316,7 +316,7 @@ body {
     float: right;
     position: static;
     transition: none;
-    widows: 200px;
+    width: 200px;
 }
 
 .leftFloat {
