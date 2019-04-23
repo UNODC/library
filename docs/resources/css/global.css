@@ -346,6 +346,6 @@ body {
     margin-right: 20px;
 }
 
-body .title {
+.title {
     height: calc(100vh - 80px);
 }
