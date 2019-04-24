@@ -285,13 +285,14 @@ body {
 }
 
 .alert {
-    margin: 30px;
+    margin-left: 30px;
+    margin-right: 20px;
     margin-top: 5px;
     clear: none;
     position: static;
     transition: none;
     float: left;
-    width: 80px;
+    width: 50px;
 }
 
 .fullWidth {
