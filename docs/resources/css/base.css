@@ -212,6 +212,7 @@ a:not([href]) {
 h2, h3 {
     display: block;
     padding: 2px;
+    font-family: Roboto-Bold;
 }
 
 ol, ul {
@@ -221,8 +222,9 @@ ol, ul {
 h6 {
     text-transform: unset;
     font-variant: unset;
-    margin-bottom: 0px;
+    margin-bottom: 5px;
     margin-top: 1em;
+    font-family: Roboto-Bold;
 }
 
 p {
